@@ -909,7 +909,7 @@
   <RmRegistryBranch NAME="RM_REGISTRY" API="" XML_VERSION="RenderMonkey 1.71">
    <RmRegistryBranch NAME="RM_LOCAL" API="" XML_VERSION="RenderMonkey 1.71">
     <RmRegistryBranch NAME="RM_PLUGIN" API="" XML_VERSION="RenderMonkey 1.71"><RmTextDataBlock TYPE="TEXT"><![CDATA[
-<DockingPaneLayouts><Application_Layout><Pane-1><Type>0</Type><DockingCX>250</DockingCX><DockingCY>250</DockingCY><Title>Artist Editor</Title><ID>1001</ID><IconID>-1</IconID><Options>0</Options><DockingHolder>10</DockingHolder><FloatingHolder>0</FloatingHolder><LastHolder>10</LastHolder></Pane-1><Pane-2><Type>2</Type><DockingCX>0</DockingCX><DockingCY>0</DockingCY><Horiz>0</Horiz><Pane-1>3</Pane-1><Panes>1</Panes></Pane-2><Pane-3><Type>2</Type><DockingCX>0</DockingCX><DockingCY>815</DockingCY><Horiz>1</Horiz><Pane-1>4</Pane-1><Pane-2>6</Pane-2><Pane-3>10</Pane-3><Panes>3</Panes></Pane-3><Pane-4><Type>1</Type><DockingCX>106</DockingCX><DockingCY>250</DockingCY><Selected>5</Selected><Panes>1</Panes><Pane-1>5</Pane-1></Pane-4><Pane-5><Type>0</Type><DockingCX>250</DockingCX><DockingCY>250</DockingCY><Title>Workspace</Title><ID>1000</ID><IconID>-1</IconID><Options>0</Options><DockingHolder>4</DockingHolder><FloatingHolder>0</FloatingHolder><LastHolder>4</LastHolder></Pane-5><Pane-6><Type>2</Type><DockingCX>658</DockingCX><DockingCY>0</DockingCY><Horiz>0</Horiz><Pane-1>7</Pane-1><Pane-2>8</Pane-2><Panes>2</Panes></Pane-6><Pane-7><Type>4</Type><DockingCX>0</DockingCX><DockingCY>0</DockingCY></Pane-7><Pane-8><Type>2</Type><DockingCX>250</DockingCX><DockingCY>197</DockingCY><Horiz>1</Horiz><Pane-1>9</Pane-1><Panes>1</Panes></Pane-8><Pane-9><Type>1</Type><DockingCX>250</DockingCX><DockingCY>399</DockingCY><Selected>0</Selected><Panes>0</Panes></Pane-9><Pane-10><Type>1</Type><DockingCX>250</DockingCX><DockingCY>250</DockingCY><Selected>0</Selected><Panes>0</Panes></Pane-10><Pane-11><Type>3</Type><DockingCX>0</DockingCX><DockingCY>0</DockingCY><TopContaner>12</TopContaner><WindowRectTopPos>226</WindowRectTopPos><WindowRectBottomPos>440</WindowRectBottomPos><WindowRectLeftPos>263</WindowRectLeftPos><WindowRectRightPos>1341</WindowRectRightPos></Pane-11><Pane-12><Type>2</Type><DockingCX>250</DockingCX><DockingCY>399</DockingCY><Horiz>1</Horiz><Pane-1>13</Pane-1><Panes>1</Panes></Pane-12><Pane-13><Type>1</Type><DockingCX>250</DockingCX><DockingCY>399</DockingCY><Selected>14</Selected><Panes>1</Panes><Pane-1>14</Pane-1></Pane-13><Pane-14><Type>0</Type><DockingCX>250</DockingCX><DockingCY>250</DockingCY><Title>Output</Title><ID>1002</ID><IconID>-1</IconID><Options>0</Options><DockingHolder>9</DockingHolder><FloatingHolder>13</FloatingHolder><LastHolder>13</LastHolder></Pane-14><Summary><TopContainer>2</TopContainer><Client>7</Client><Panes>14</Panes></Summary></Application_Layout></DockingPaneLayouts>
+<DockingPaneLayouts><Application_Layout><Pane-1><Type>0</Type><DockingCX>250</DockingCX><DockingCY>250</DockingCY><Title>Artist Editor</Title><ID>1001</ID><IconID>-1</IconID><Options>0</Options><DockingHolder>10</DockingHolder><FloatingHolder>0</FloatingHolder><LastHolder>10</LastHolder></Pane-1><Pane-2><Type>2</Type><DockingCX>0</DockingCX><DockingCY>0</DockingCY><Horiz>0</Horiz><Pane-1>3</Pane-1><Panes>1</Panes></Pane-2><Pane-3><Type>2</Type><DockingCX>0</DockingCX><DockingCY>815</DockingCY><Horiz>1</Horiz><Pane-1>4</Pane-1><Pane-2>6</Pane-2><Pane-3>10</Pane-3><Panes>3</Panes></Pane-3><Pane-4><Type>1</Type><DockingCX>68</DockingCX><DockingCY>250</DockingCY><Selected>5</Selected><Panes>1</Panes><Pane-1>5</Pane-1></Pane-4><Pane-5><Type>0</Type><DockingCX>250</DockingCX><DockingCY>250</DockingCY><Title>Workspace</Title><ID>1000</ID><IconID>-1</IconID><Options>0</Options><DockingHolder>4</DockingHolder><FloatingHolder>0</FloatingHolder><LastHolder>4</LastHolder></Pane-5><Pane-6><Type>2</Type><DockingCX>696</DockingCX><DockingCY>0</DockingCY><Horiz>0</Horiz><Pane-1>7</Pane-1><Pane-2>8</Pane-2><Panes>2</Panes></Pane-6><Pane-7><Type>4</Type><DockingCX>0</DockingCX><DockingCY>0</DockingCY></Pane-7><Pane-8><Type>2</Type><DockingCX>250</DockingCX><DockingCY>197</DockingCY><Horiz>1</Horiz><Pane-1>9</Pane-1><Panes>1</Panes></Pane-8><Pane-9><Type>1</Type><DockingCX>250</DockingCX><DockingCY>399</DockingCY><Selected>0</Selected><Panes>0</Panes></Pane-9><Pane-10><Type>1</Type><DockingCX>250</DockingCX><DockingCY>250</DockingCY><Selected>0</Selected><Panes>0</Panes></Pane-10><Pane-11><Type>3</Type><DockingCX>0</DockingCX><DockingCY>0</DockingCY><TopContaner>12</TopContaner><WindowRectTopPos>228</WindowRectTopPos><WindowRectBottomPos>442</WindowRectBottomPos><WindowRectLeftPos>-4</WindowRectLeftPos><WindowRectRightPos>1285</WindowRectRightPos></Pane-11><Pane-12><Type>2</Type><DockingCX>250</DockingCX><DockingCY>399</DockingCY><Horiz>1</Horiz><Pane-1>13</Pane-1><Panes>1</Panes></Pane-12><Pane-13><Type>1</Type><DockingCX>250</DockingCX><DockingCY>399</DockingCY><Selected>14</Selected><Panes>1</Panes><Pane-1>14</Pane-1></Pane-13><Pane-14><Type>0</Type><DockingCX>250</DockingCX><DockingCY>250</DockingCY><Title>Output</Title><ID>1002</ID><IconID>-1</IconID><Options>0</Options><DockingHolder>9</DockingHolder><FloatingHolder>13</FloatingHolder><LastHolder>13</LastHolder></Pane-14><Summary><TopContainer>2</TopContainer><Client>7</Client><Panes>14</Panes></Summary></Application_Layout></DockingPaneLayouts>
 ]]></RmTextDataBlock>
      <RmRegistryBranch NAME="RmPreviewDx9Window" API="" XML_VERSION="RenderMonkey 1.71"/>
      <RmRegistryBranch NAME="RmPreviewGLESWindow" API="" XML_VERSION="RenderMonkey 1.71"/>
@@ -941,9 +941,9 @@
      <RmRegistryBranch NAME="RmPreviewGLWindow" API="" XML_VERSION="RenderMonkey 1.71">
       <RmRegistryBranch NAME="EffectPlacementRepository" API="" XML_VERSION="RenderMonkey 1.71">
        <RmRegistryBranch NAME="Effect Workspace.Effect Group 1.AttractorShader" API="" XML_VERSION="RenderMonkey 1.71">
-        <RmIntegerVariable NAME="X" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="0" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="X" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="92" MIN="-10" MAX="10" CLAMP="FALSE"/>
         <RmIntegerVariable NAME="Y" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="0" MIN="-10" MAX="10" CLAMP="FALSE"/>
-        <RmIntegerVariable NAME="Width" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="350" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="Width" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="258" MIN="-10" MAX="10" CLAMP="FALSE"/>
         <RmIntegerVariable NAME="Height" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="350" MIN="-10" MAX="10" CLAMP="FALSE"/>
         <RmIntegerVariable NAME="ShowStatus" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="1" MIN="-10" MAX="10" CLAMP="FALSE"/>
         <RmIntegerVariable NAME="Visible" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="0" MIN="-10" MAX="10" CLAMP="FALSE"/>
@@ -984,7 +984,7 @@ Pass 0]]></RmTextDataBlock></RmStringVariable>
     </RmRegistryBranch>
     <RmRegistryBranch NAME="WORKSPACE" API="" XML_VERSION="RenderMonkey 1.71">
      <RmStringVariable NAME="LAST_SAVE" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC=""><RmTextDataBlock TYPE="TEXT"><![CDATA[
-19/6/2017 10:34:11]]></RmTextDataBlock></RmStringVariable>
+19/6/2017 16:54:27]]></RmTextDataBlock></RmStringVariable>
      <RmStringVariable NAME="VERSION" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC=""><RmTextDataBlock TYPE="TEXT"><![CDATA[
 RenderMonkey Version 1.82 (build 322)]]></RmTextDataBlock></RmStringVariable>
      <RmStringVariable NAME="XML_VERSION" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC=""><RmTextDataBlock TYPE="TEXT"><![CDATA[
@@ -996,7 +996,7 @@ C:\Users\florian.seidl-schulz\Documents\SpringAttractorShader\]]></RmTextDataBlo
   </RmRegistryBranch>
   <RmEffectGroup NAME="Effect Group 1" API="">
    <RmOpenGLEffect NAME="AttractorShader" API="OpenGL" ACTIVE_CAMERA="">
-    <RmFloatVariable NAME="time0_1" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="Time0_1" VALUE="0.072911" MIN="-1.000000" MAX="1.000000" CLAMP="FALSE"/>
+    <RmFloatVariable NAME="time0_1" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="Time0_1" VALUE="0.208334" MIN="-1.000000" MAX="1.000000" CLAMP="FALSE"/>
     <RmFloatVariable NAME="time0_2PI" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="Time0_2PI" VALUE="0.000000" MIN="-1.000000" MAX="1.000000" CLAMP="FALSE"/>
     <RmMatrixVariable NAME="matView" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="View" VALUE_0="1.000000" VALUE_1="0.000000" VALUE_2="0.000000" VALUE_3="0.000000" VALUE_4="0.000000" VALUE_5="1.000000" VALUE_6="0.000000" VALUE_7="0.000000" VALUE_8="0.000000" VALUE_9="0.000000" VALUE_10="1.000000" VALUE_11="0.000000" VALUE_12="0.000000" VALUE_13="0.000000" VALUE_14="0.000000" VALUE_15="1.000000"/>
     <RmDynamicVariable NAME="fNormal" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VARIABLE_TYPE="FLOAT" ROWS="3" COLUMNS="1" FIXED_SIZE="TRUE" MIN="-1.000000" MAX="1.000000" CLAMP="FALSE" NORMALIZE="FALSE">
@@ -1019,7 +1019,7 @@ C:\Users\florian.seidl-schulz\Documents\SpringAttractorShader\]]></RmTextDataBlo
       <RmStreamChannel NAME="TexCoord_0" API="" DATA_SIZE="8" DATA_TYPE="1" REGISTER="0" USAGE="5" USAGE_INDEX="0" ATTRIBUTE_NAME="rm_TexCoord0"/>
      </RmStream>
     </RmStreamMap>
-    <RmModelData NAME="Model" API="" FILE_NAME="..\..\..\..\..\Program Files (x86)\AMD\RenderMonkey 1.82\Examples\Media\Models\bunny.obj" ORIENTATION="0"/>
+    <RmModelData NAME="Model" API="" FILE_NAME="..\..\..\..\Program Files (x86)\AMD\RenderMonkey 1.82\Examples\Media\Models\TexturedCube.3ds" ORIENTATION="0"/>
     <RmGLPass NAME="Pass 0" API="OpenGL" PASS_INDEX="0" ENABLED="TRUE">
      <RmModelReference NAME="Model" API=""/>
      <RmGLShader NAME="Vertex Program" API="OpenGL" PIXEL_SHADER="FALSE"><RmShaderCode TYPE="TEXT"><![CDATA[
@@ -1108,8 +1108,96 @@ varying vec4 vertexEndCol;
 #define COMPOSE(COL,COLB, FACTOR) ((COL* FACTOR) +(COLB *(1.0 - FACTOR)))
 #define BLEND(COL_A,COL_B, START, END, RESULT_VARA, RESULT_VARB) RESULT_VARA= COL_A*START + COL_B *(1.0-START); RESULT_VARB= COL_A* END + COL_B(1.0- END);
 #define BLENDSAMPLER(COL_A,COL_B,COL_C,COL_D, PERCENT,   RESULT_VAR) RESULT_VAR.colIn= COL_A*PERCENT + COL_B *(1.0-PERCENT);RESULT_VAR.colOut= COL_C*PERCENT + COL_D *(1.0-PERCENT);
+//debugInfo
+#define dbg_isParticleNearPos(PARTICLE,POSITION,TOLERANCE)  (distance(PARTICLE + Center.Pos,POSITION) < TOLERANCE) 
+//Helper functions
+#define RAND(X,Y)  (fract(sin(dot(X + Y ,vec2(12.9898,78.233)))*43758.5453))
+#define MATH_MAX(A,B)  = (A > B)? A: B;
 
+
+/////////////////////////// DATA STRUCTS /////////////////////////////////
+//Works as a mask, allowing to precomp, wether a rotation is needed
+struct borderLine{
+   vec2 frontUp;
+   vec2 rearUp;
+   vec2 frontLow;
+   vec2 rearLow;   
+};
+//Describes a linewise mask, pixelstart and pixelend
+struct mask{
+   int start;
+   int end;   
+};
+//1byte mask
+mask maskStartEnd;
+
+struct PointPair{
+   vec2 Up;
+   vec2 Low;
+};
+
+//Center of the Pseudo-LorenzSim Physics
+struct Attractor{
+   vec2 Pos;
+   vec2 dir;
+   float linGravity;
+   float expGravity;
+   float PulseStrenghtTimeRatio;   
+   //describes how much each pieces NewDir is affected by linGravity over time
+   float sinusFactor;
+   float maxDistanceParticles;
+};
+
+Attractor Center;
+
+//Particle bound to a attractor
+struct Particle{
+   float rotationInAngleStep;
+   //Positions are relative Positions to CenterPos
+   vec2 Pos;
+   //Directions are non-nomralized Vectors, containing as Sqrt(Vec) the force
+   vec2 dir;   
+   vec2 lastPos;
+   vec2  lastDir;
+   float MaxDistToPredecessor;
+};
+
+//Describes a linear Colour Gradient 
+struct colSampler{
+   vec4 colIn;
+   vec4 colOut;   
+};
+////////////////////////////// GLOBAL CONFIG/////////////////////////////
+vec2 CenterPath[CenterPathSize];
+Particle Particles[PARTICLESSIZE];
+vec4 a[GRADIENT_SIZE];
+
+//Defining the Colours the Gradient traverses from Start to End - Outermost color Gradient
+colSampler GradStartCol;
+colSampler GradEndCol;
+
+float InterPolationSteps = float(5.0);
 //////////////////////////// GEOMETRY/ MATH //////////////////////////////////
+// dist_Point_to_Segment(): get the distance of a point to a segment
+//     Input:  a Point P and a Segment S (in any dimension)
+//     Return: the shortest distance from P to S
+float minimum_distance(vec2 P0, vec2 P1, vec2 P)
+{
+   vec2  v = P1 - P0;
+   vec2  w = P - P0;
+
+   float c1 = dot(w,v);
+   if ( c1 <= 0 )
+   return dist(P, P0);
+
+   float c2 = dot(v,v);
+   if ( c2 <= c1 )
+   return dist(P, P1);
+
+
+   vec2 Pb = P0 + (c1 / c2)*v;
+   return dist(P, Pb);
+}
 
 //hc = 2·sqrt(s·(s - a)·(s - b)·(s - c))/c
 // #define POSPROPORTION(DISTPOSUP,DISTPOSDOWN,DISTUPDOWN,RESULT) RESULT=(((DISTPOSUP)+(DISTPOSDOWN)+(DISTUPDOWN))*0.5);RESULT=((2.0*sqrt((RESULT)*((RESULT)-(DISTPOSUP))*((RESULT)-(DISTPOSDOWN))*((RESULT)-(DISTUPDOWN))))/(DISTUPDOWN));RESULT=((RESULT)*(RESULT)+(DISTPOSUP)*(DISTPOSUP));RESULT=(sqrt((RESULT))/(DISTUPDOWN));
@@ -1158,7 +1246,7 @@ bool PointInTriangle( vec2 a, vec2 b, vec2 c,vec2 s)
 mat2 rotationMatrix(float angle)
 {
    return mat2( cos(angle), sin(angle),
-   -1.0*sin(angle), cos (angle)); 
+   -1.0  *sin(angle), cos (angle)); 
 }
 
 //sums up the component of a vector   
@@ -1172,17 +1260,37 @@ float sumv2(vec2 element)
    return element.x+element.y;
 }   
 
+//computate absolut distance to center for outmost point
+float getAbsDistance(vec2 center, int endIndex) {
+   float absDistance = distance(center, Particles[0].Pos);
+
+   //from the center to the target dist computate the absolute Distance
+   for (int i=0; i < endIndex ; i++) {
+   absDistance += distance(Particles[i].Pos,Particles[i+1].Pos);
+   }
+   return absDistance;
+}
+
+//computates the absolut distance of the center and a Pos
+float getRelativeDistancePosCenter(vec2 center, vec2 Pos) {
+ return distance(center, Pos)
+}
+
+//0 Start of width, zero start of heigth
+//heigth is relativ over all Particles in a row from center out
+//width is relative over the whole gradient length
+vec4 mapPercentToGradient(float heigth, float width, colSampler widthCol) {
+   //mix the colour along the length of the gradient
+   float gradientMappedHeigth = heigth * GRADIENT_SIZE;
+   vec4 widthColour = mix(widthCol.colIn, widthCol.colOut, width);
+   int gradHeigthIndxLow= min(GRADIENT_SIZE,max(0,int(gradientMappedHeigth)));
+   int gradHeigthIndxPP= min(GRADIENT_SIZE,max(0,gradientHeigthIndexLow +1));
+   float inParticleHeigth = gradientMappedHeigth - float(int(gradientMappedHeigth));
+  return mix(Gradient[gradHeigthIndxLow], Gradient[gradHeigthIndxPP],  )
+   
+}
+
 ///////////////////////////// DEBUG ///////////////////////////////////
-//debugInfo
-#define dbg_isParticleNearPos(PARTICLE,POSITION,TOLERANCE)  (distance(PARTICLE + Center.Pos,POSITION) < TOLERANCE) 
-//Helper functions
-#define RAND(X,Y)  (fract(sin(dot(X + Y ,vec2(12.9898,78.233)))*43758.5453))
-#define MATH_MAX(A,B)  = (A > B)? A: B;
-//Describes a linear Colour Gradient 
-struct colSampler{
-   vec4 colIn;
-   vec4 colOut;   
-};
 
 //Debug Displays the ParticlePoints and AttractorPoint
 bool dbgAtParticleStartPos(vec2 localPos, float tol)
@@ -1218,63 +1326,6 @@ bool dbgPointOnBorder(vec2 offSet, vec2 pNewOut, vec2 pNewIn, vec2 pOldOut, vec2
    if (minimum_distance(pOldOut,pNewOut,pPixel) < tol) return true;
    return false;
 }
-/////////////////////////// DATA STRUCTS /////////////////////////////////
-//Works as a mask, allowing to precomp, wether a rotation is needed
-struct borderLine{
-   vec2 StartUp;
-   vec2 EndUp;
-   vec2 StartLow;
-   vec2 EndLow;   
-};
-//Describes a linewise mask, pixelstart and pixelend
-struct mask{
-   int start;
-   int end;   
-};
-//1byte mask
-mask maskStartEnd;
-
-struct PointPair{
-   vec2 Up;
-   vec2 Low;
-};
-
-//Center of the Pseudo-LorenzSim Physics
-struct Attractor{
-   vec2 Pos;
-   vec2 dir;
-   float linGravity;
-   float expGravity;
-   float PulseStrenghtTimeRatio;   
-   //describes how much each pieces NewDir is affected by linGravity over time
-   float sinusFactor;
-   float maxDistanceParticles;
-};
-
-Attractor Center;
-
-//Particle bound to a attractor
-struct Particle{
-   float rotationInAngleStep;
-   //Positions are relative Positions to CenterPos
-   vec2 Pos;
-   //Directions are non-nomralized Vectors, containing as Sqrt(Vec) the force
-   vec2 dir;   
-   vec2 lastPos;
-   vec2  lastDir;
-   float MaxDistToPredecessor;
-};
-
-////////////////////////////// GLOBAL CONFIG/////////////////////////////
-vec2 CenterPath[CenterPathSize];
-Particle Particles[PARTICLESSIZE];
-float Gradient[GRADIENT_SIZE];
-
-//Defining the Colours the Gradient traverses from Start to End - Outermost color Gradient
-colSampler GradStartCol;
-colSampler GradEndCol;
-
-float InterPolationSteps = 5.0;
 ////////////////////////////   SOURCE //////////////////////////////////
 
 void init()
@@ -1312,15 +1363,15 @@ void init()
    Center.maxDistanceParticles=MAX_RANGE_PARTICLES;
 
    //Colours and Gradient
-   Gradient[0]=0.0;
-   Gradient[1]=0.3 *sinUs;
-   Gradient[2]=0.05*sinUs;
-   Gradient[3]=0.7*sinUs;
-   Gradient[4]=0.2*sinUs;
-   Gradient[5]=1.0*sinUs;
-   Gradient[6]=0.2*sinUs;
-   Gradient[7]=0.3*sinUs;
-   Gradient[8]=0.0; 
+   Gradient[0]= vec4(0,0,0,0);
+   Gradient[1]= vec4(0,0,0,0.3 *sinUs);
+   Gradient[2]= vec4(1,1,1,0.05*sinUs);
+   Gradient[3]= vec4(0,0,0,0.7*sinUs);
+   Gradient[4]= vec4(0,0,0,0.2*sinUs);
+   Gradient[5]= vec4(1,1,1,1.0*sinUs);
+   Gradient[6]= vec4(0,0,0,0.2*sinUs);
+   Gradient[7]= vec4(0,0,0,0.3*sinUs);
+   Gradient[8]= vec4(0,0,0,0.0);
 
 
 }
@@ -1330,34 +1381,6 @@ bool isPixelInSim(int steps, vec2 Pos)
 {
    return  (distance(CenterPath[steps],Pos) < Center.maxDistanceParticles);
 }
-
-//Gets the Alpha at current Gradient
-float alphaGradient(int index, float factor)
-{
-   return   Gradient[index]*factor+ Gradient[min(GRADIENT_SIZE-1,index+1)]* (1.0-factor);      
-}
-
-// dist_Point_to_Segment(): get the distance of a point to a segment
-//     Input:  a Point P and a Segment S (in any dimension)
-//     Return: the shortest distance from P to S
-float minimum_distance(vec2 P0, vec2 P1, vec2 P)
-{
-   vec2  v = P1 - P0;
-   vec2  w = P - P0;
-
-   float c1 = dot(w,v);
-   if ( c1 <= 0 )
-   return dist(P, P0);
-
-   float c2 = dot(v,v);
-   if ( c2 <= c1 )
-   return dist(P, P1);
-
-
-   vec2 Pb = P0 + (c1 / c2)*v;
-   return dist(P, Pb);
-}
-
 
 //Draws Additive the polygons into the texture  
 //Particle Speed is factored in via the colSamplers
@@ -1370,252 +1393,7 @@ vec4 AddDraw(colSampler qFrontCol,colSampler qRearCol, vec2 pNewOut, vec2 pNewIn
    //TODO remove Debug
    if  (dbgPointOnBorder( Center.Pos.xy,   pNewOut,  pNewIn,  pOldOut,  pOldIn,  pPixel,0.03)==true ) return Red;
    
-   //Get pPixelition into Center Coordinate System Coords
-   //   pPixel= pPixel - Center.Pos.xy; 
 
-
-   
-   float DistanceMidFrontRear, DistanceFrontPos;
-   float totalDistanceRear, distancePosRearOut,distancePosRearIn, rearUpNormResult,rearDownNormResult;
-   float totalDistanceFront, distancePosFrontOut,distancePosFrontIn, frontUpNormResult,frontDownNormResult;
-   float distNormFrontRear;
-   vec2  midPosFront, midPosRear;
-   vec2  pMidInner, pMidOuter;
-   vec2 pMidFront, pMidRear;
-   
-   //Rear    Side
-   //total distance of the quads Rear In and Out Point
-   totalDistanceRear= distance(pOldOut,pOldIn);      
-   
-   //distance of the Pixel Position to the rear Outward Point
-   distancePosRearOut=distance(pPixel,pOldOut);
-   
-   //distance of the Position to the rear Inward Point
-   distancePosRearIn=distance(pPixel,pOldIn);
-   
-   //computes the distance in percent up
-   rearUpNormResult = posProportion( pPixel, pOldOut,  pOldIn);
-
-   //POSPROPORTION(distancePosRearOut,distancePosRearIn,totalDistanceRear,rearUpNormResult);
-   
-   //computes the distance in percent down
-   rearDownNormResult= 1.0 - rearUpNormResult;
-   
-   //estimate the midPos with the given percentage
-   // midPosRear= COMPOSE(pOldIn,pOldOut,rearDownNormResult);
-
-   //Front  Side
-   //distance of the quads Front In and Out
-   totalDistanceFront= distance(pNewOut,pNewIn);
-   //distance of the Position to the front Outward Vertex
-   distancePosFrontOut=distance(pPixel, pNewOut);
-   //distance of the Position to the front Inward Vertex
-   distancePosFrontIn=distance(pPixel,pNewIn);
-   
-   //computes the distance in percent down
-   frontUpNormResult = posProportion( pPixel, pNewOut,  pNewIn);
-   
-   //computes the distance in percent up
-   frontDownNormResult= abs( 1.0 - frontUpNormResult);
-   //midPos
-   //midPosFront= COMPOSE(pNewIn,pNewOut,frontUpNormResult);
-
-
-   float    totalDistance_Inner, distancePosFrontIn_Inner, distancePosRearIn_Inner, FrontNormResult_Inner, RearNormResult_Inner  ;
-   float    totalDistance_Outer, distancePosFrontOut_Outer, distancePosRearOut_Outer, Rear_NormResult_Outer, Front_NormResult_Outer  ;
-
-   //Inner Side
-   //distance of the quads Front In and Out
-   totalDistance_Inner =    distance(pNewIn ,pOldIn); //distance
-   //distance of the Position to the front Outward Vertex
-   distancePosFrontIn_Inner  = distance(pPixel,  pNewIn); //distance
-   //distance of the Position to the front Inward Vertex
-   distancePosRearIn_Inner =distance(pPixel , pOldIn); //distance
-   
-   //computes the distance in percent down
-   FrontNormResult_Inner = posProportion( pPixel, pNewIn,  pOldIn);
-   
-   //computes the distance in percent up
-   RearNormResult_Inner = abs(1.0 - FrontNormResult_Inner);
-   //midPos
-   pMidInner= COMPOSE(pNewIn,pOldIn,FrontNormResult_Inner);
-   //midPos
-   pMidFront = COMPOSE(pNewIn,pNewOut,FrontNormResult_Inner);
-   if (distance(pPixel,pMidInner) < 0.3 ) return Green;
-   // if (distance(pPixel,pMidFront) < 0.3 ) return Yellow;
-
-   //Outer Side
-   //distance of the quads Front Out and Rear Out
-   totalDistance_Outer = distance(pNewOut,pOldOut); //distance
-   //distance of the Position to the front Outward Vertex
-   distancePosFrontOut_Outer  = distance(pPixel, pNewOut); //distance
-   //distance of the Position to the front Inward Vertex
-   distancePosRearOut_Outer =distance(pPixel,pOldOut); //distance
-   
-   //computes the distance in percent down
-   Rear_NormResult_Outer = posProportion( pPixel, pNewOut,  pOldOut);
-   //computes the distance in percent up
-   Front_NormResult_Outer = 1.0 - Rear_NormResult_Outer;
-   //midPos
-   pMidOuter= COMPOSE(pNewOut,pOldOut,Rear_NormResult_Outer);
-   
-   if (distance(pPixel,pMidOuter) < 0.3 ) return Green;
-   
-
-   
-   float percentage_distDown    = distance(pMidOuter, pPixel)   ; //distance
-   float percentage_distUp    = distance(pMidInner,pPixel)   ;//distance
-   float dist_norm            = sqrt( percentage_distDown*percentage_distDown + percentage_distUp* percentage_distUp);
-
-   //recombine the percentages of frontheight and rearheight
-   percentage_distDown    =    abs(percentage_distDown /dist_norm);
-   percentage_distUp      =    abs(percentage_distUp /dist_norm);
-   
-   //Lets compose the Color - Distortion Free
-   
-   //mix the lower color
-   vec4 lowerCol = (qFrontCol.colIn * RearNormResult_Inner) + (qRearCol.colIn * (FrontNormResult_Inner));
-
-   //mix the upper color
-   vec4 upperCol = (qFrontCol.colOut * Front_NormResult_Outer) + (qRearCol.colOut * (Rear_NormResult_Outer) );
-
-
-
-
-   //mix the lower and upper color
-   vec4 resultCol= mix(lowerCol, upperCol, percentage_distDown);
-   return resultCol; 
-   
-   //Front Alpha Gradient
-   float FrontAlphaGradient=alphaGradient(gradIndex,frontDownNormResult);
-   //Rear Alpha Gradient
-   float RearAlphaGradient=alphaGradient(gradIndex,rearDownNormResult);
-   
-   //Lower one wins
-   FrontAlphaGradient= min(FrontAlphaGradient,qFrontCol.colIn.a);
-   RearAlphaGradient=  min (RearAlphaGradient,qRearCol.colIn.a);
-   
-   //Get a global Percentage
-   float absoluteAlphaGradient=    COMPOSE(FrontAlphaGradient,RearAlphaGradient,distNormFrontRear);
-   
-   float distanceFrontMidPos_Pos= distance(midPosFront,pPixel);
-   
-   //  resultCol*=absoluteAlphaGradient;
-   return resultCol;  
-}
-
-//calculate a new attractor position
-vec2 newAttractorPosition(vec2 interValStart, vec2 interValEnd, float percentage, float time)
-{   
-   vec2 midPoint= vec2(interValEnd*(1.0 -percentage)+ interValStart*percentage);
-   
-   return midPoint;
-}
-
-void updateParticlePosition( int p)
-{   
-   float fRotationDynamicPart, fTotalRotation;
-   mat2  rMat;
-   //save the particles old Position
-   Particles[p].lastPos=Particles[p].Pos;
-
-   //calculte dynamic part of the Rotation
-   fRotationDynamicPart=0.0;//atan(Particles[p].dir);
-   fTotalRotation =  Particles[p].rotationInAngleStep + fRotationDynamicPart; // speed*atan(Particles[p].dir.x,Particles[p].dir.y);
-   //fTotalRotation=sin(time0_1*PI2 -PI);
-   
-   rMat=rotationMatrix(fTotalRotation);
-   
-   Particles[p].Pos.xy =  rMat*Particles[p].Pos.xy;   
-}
-
-vec4 doPhySim(float percent, float time, vec2 Pos)
-{
-   vec4 accumulatedColour= Black;
-   float outerFactorDistance, innerFactorDistance;
-   
-   //DebugDelMe
-   if (dbgAtParticleStartPos(Pos,0.1)== true) return Red;
-   //DebugDelMe 
-   
-   //Move along the CenterPath in SimSteps   -> Steps of the same colourgradient can be parallized  
-   //Cost Total:   (steps*(particles-1)) /ProcessingUnits
-   for (int attrPath=0; attrPath< CenterPathSize-1;attrPath++)
-   {
-      //if this pixel is within range of a pathPoint+ maxRange
-      if (!isPixelInSim(attrPath,Pos))continue;
-      //StartColour of this Part of PathIntervall
-      float startPercentage= min(float(attrPath),float(CenterPathSize))/float(CenterPathSize);
-      //EndColour of this Part of PathIntervall
-      float endPercentage= min(float(attrPath+1),float(CenterPathSize))/float(CenterPathSize);   
-      //Set the Start End Colour of this PartPath
-      GradEndCol.colOut=    vertexStartCol*startPercentage + vertexEndCol*(1.0 - startPercentage) ;      GradEndCol.colIn=   GradEndCol.colOut;
-      GradStartCol.colOut  =   vertexStartCol*endPercentage   + vertexEndCol*(1.0 - endPercentage)  ;      GradStartCol.colIn =  GradStartCol.colOut ;
-      
-      for (int steps=0; steps < INTERPOLATION_STEPS ;steps++)
-      {          
-         
-         //calculate the new AttractorPosition
-         Center.Pos= newAttractorPosition(CenterPath[attrPath],CenterPath[attrPath+1],(0.1+float(steps))/InterPolationSteps,time);
-         //Colorsampler containing the strips Front and Rear Color
-         float StripFrontPercentage, StripRearPercentage,stripPercent;
-         stripPercent= 1/INTERPOLATION_STEPS;
-         
-         StripFrontPercentage = min( stripPercent*(steps+1),1.0);
-         StripRearPercentage =min( stripPercent*(steps),1.0);
-         
-         colSampler StripFront;
-         colSampler StripRear;
-         
-         //mix this color for this interpolation step
-         
-         BLENDSAMPLER(GradStartCol.colIn, GradEndCol.colIn, GradEndCol.colOut, GradEndCol.colOut,StripFrontPercentage, StripFront)
-         BLENDSAMPLER(GradStartCol.colIn, GradEndCol.colIn, GradEndCol.colOut, GradEndCol.colOut, StripRearPercentage, StripRear)
-
-         //SetNewPosition
-         for (int p=0;p < PARTICLESSIZE; p++)
-         {   
-            //calculate a new Position
-            updateParticlePosition( p);
-            
-            //factor in the traversed Distance into the colour (this disregards the curve taken)   
-            float OutTraversedDistance = distance(Particles[p].Pos,Particles[p].lastPos);
-            float InnerTraversedDistance= distance(Particles[p-1].Pos,Particles[p-1].lastPos);
-            float sumDistance= OutTraversedDistance + InnerTraversedDistance;
-            
-            //multiply by traversed distance
-            outerFactorDistance=1.0-(OutTraversedDistance/sumDistance);
-            innerFactorDistance=1.0-(InnerTraversedDistance/sumDistance);
-            
-
-            //Get the outer Percentage of the colorstrip            
-            colSampler RearCol;
-            colSampler FrontCol;
-            
-            if (p > 0)
-            {
-               float index = float(p-1);
-               if (index == 0) index = 1;
-
-               
-               RearCol.colIn =      (index * PERCENTAGE *StripRear.colIn )+  ((PARTICLESSIZE- index)*PERCENTAGE *StripRear.colOut); 
-               RearCol.colOut =     ((p)*PERCENTAGE *StripRear.colIn)  +  ((PARTICLESSIZE-p)*PERCENTAGE *StripRear.colOut); 
-               FrontCol.colIn =   ((index)*PERCENTAGE *StripFront.colIn)  +  ((PARTICLESSIZE- index)*PERCENTAGE *StripFront.colOut); 
-               FrontCol.colOut =   ((p)*PERCENTAGE *StripFront.colIn)  +  ((PARTICLESSIZE-p)*PERCENTAGE *StripFront.colOut); 
-               
-               //TODO Delete Me
-               RearCol.colIn  = Red;
-               RearCol.colOut = Blue;
-               
-               FrontCol.colIn= Red;
-               FrontCol.colOut = Blue;
-               //TODO Delete Me 
-               
-               accumulatedColour = accumulatedColour +  AddDraw(FrontCol, RearCol, Particles[p].Pos, Particles[p-1].Pos, Particles[p].lastPos, Particles[p-1].lastPos, Pos, int( float(float(p)/float(PARTICLESSIZE)* GRADIENT_SIZE)));  
-            } 
-         }
-      }
-   }
    return accumulatedColour;
 }
 
@@ -1623,7 +1401,6 @@ vec4 doPhySim(float percent, float time, vec2 Pos)
 float totalTime=90.0;
 float colDecayTime=30.0;
 float globalPercentColDecay;
-
 
 void main(void)
 {
@@ -1642,17 +1419,14 @@ void main(void)
    {
       ItterationTest= isPixelInSim(i,Position.xy);
       InPhySim = ( InPhySim || ItterationTest);
-      
    }
    
 
    if (InPhySim==true) {
-      gl_FragColor= doPhySim(mod(time0_1/totalTime,1.0), time0_1, Position.xy);
-      
+      gl_FragColor= doPhySim(mod(time0_1/totalTime,1.0), time0_1, Position.xy);   
    }
    else 
-   { 
-      
+   {       
       gl_FragColor= ((vec4(0.9,0.9,0.9,1.0) + gl_FragColor)/sum(1.0 - normalize(fNormal)));
    }   
 
